@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Apoorav Malik</h1>
+aa<h1 align="center">Hi 👋, I'm Apoorav Malik</h1>
 <h3 align="center">Tech Enthusiast | Building Solutions with Code | Innovating through AI & Data</h3>
 
 - 🔭 I’m currently working on **GenAI project**
@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/apoorav-malik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/apoorav-malik/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/iamapoorav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/iamapoorav/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/user0848xr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/user0848xr/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/user0848xr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/user0848xr/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
