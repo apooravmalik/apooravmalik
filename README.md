@@ -1,4 +1,4 @@
-aa<h1 align="center">Hi 👋, I'm Apoorav Malik</h1>
+<h1 align="center">Hi 👋, I'm Apoorav Malik</h1>
 <h3 align="center">Tech Enthusiast | Building Solutions with Code | Innovating through AI & Data</h3>
 
 - 🔭 I’m currently working on **GenAI project**
