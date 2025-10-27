@@ -58,9 +58,9 @@
 
 <h3 align="left">LeetCode Stats:</h3>
 <p align="centre"> 
-  <img src="https://leetcode.card.workers.dev/user0848Xr?theme=wtf&font=source_code_pro&extension=activity" alt="LeetCode Stats" />
+  <img src="https://leetcode.card.workers.dev/apooravmalik?theme=wtf&font=source_code_pro&extension=activity" alt="LeetCode Stats" />
   
-  ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=user0848Xr&animated=true)
+  ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=apooravmalik&animated=true)
 </p>
 
 
